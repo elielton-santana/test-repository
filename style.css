@@ -1,0 +1,149 @@
+/* body {
+    background-image: url(https://st4.depositphotos.com/10654668/20268/i/450/depositphotos_202687422-stock-photo-top-view-pink-paper-hearts.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+} */
+
+/* .div-deus {
+    position: absolute;
+    background-image: url(https://st4.depositphotos.com/10654668/20268/i/450/depositphotos_202687422-stock-photo-top-view-pink-paper-hearts.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+} */
+
+.containere-pai-de-todos {
+    margin-top: 80px;
+    height: 1600px;
+    width: 700px;
+    background-image: url(img/WhatsApp\ Image\ 2023-12-09\ at\ 09.38.01.jpeg);
+    left: 450px;
+    position: absolute;
+    border-radius: 30px;
+}
+
+
+
+
+
+button {
+
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 20px 30px;
+    font-size: 50px;
+    cursor: pointer;
+    border: solid 5px rgb(222, 5, 5);
+    margin: 30px;
+    color: rgb(222, 5, 5);
+    text-decoration: none;
+}
+
+
+.botoes {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'amor';
+    border: solid 5px rgb(255, 5, 5);
+    color: black;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+
+
+@media (max-width: 520px) {
+     
+
+
+    body {
+        width: 100%;
+        background-color: aqua;
+        
+    }
+
+    .containere-pai-de-todos {
+        width: 100%;
+        position: static;
+        
+        
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @font-face {
+    font-family: 'amor';
+    src: url('FOntes/KINKEE__.TTF');
+}
+
+.containere-pai-de-todos {
+    background-image: url(img/WhatsApp\ Image\ 2023-12-09\ at\ 09.38.01.jpeg);
+    background-repeat: no-repeat;
+    display: flex;
+    height: 1600px;
+    left: 30%;
+    
+} */
+
+
+
+/* body {
+    
+    background-image: url('img/bacground-do-site-corações.gif');
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
+@media (max-width: 1048px)
+
+{
+    body {
+        background-image: url('img/Não\ confirmado.png');
+    }
+} */
