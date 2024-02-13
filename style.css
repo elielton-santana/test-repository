@@ -2,7 +2,7 @@
     background-image: url(https://st4.depositphotos.com/10654668/20268/i/450/depositphotos_202687422-stock-photo-top-view-pink-paper-hearts.jpg);
     background-repeat: repeat-y;
     background-size: 100%;
-} */
+} */ */
 
 /* .div-deus {
     position: absolute;
@@ -11,13 +11,11 @@
     background-size: 100%;
 } */
 
-.containere-pai-de-todos {
-    margin-top: 80px;
-    height: 1600px;
-    width: 700px;
+/* .containere-pai-de-todos {
+    background-size: cover;
     background-image: url(img/WhatsApp\ Image\ 2023-12-09\ at\ 09.38.01.jpeg);
-    position: absolute;
-    border-radius: 30px;
+    background-position: center;
+    height: 100vh;
 }
 
 
@@ -60,6 +58,24 @@ h2 {
 
 @media (max-width: 520px) {
      
+    h2  {
+        font-size: 18px;
+    }
+
+
+    button {
+
+        font-size: 18px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        font-size: 18px;
+        cursor: pointer;
+        border: solid 5px rgb(222, 5, 5);
+        margin: 10px;
+        color: rgb(222, 5, 5);
+    }
+    
+    
 
 
     body {
@@ -69,15 +85,15 @@ h2 {
     }
 
     .containere-pai-de-todos {
-        width: 100%;
-        position: static;
-        
+        background-size: contain;
+        height: auto;
+        background-repeat: no-repeat;
         
     }
 
 
 
-}
+} */
 
 
 
@@ -145,4 +161,135 @@ h2 {
     body {
         background-image: url('img/Não\ confirmado.png');
     }
-} */
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div-deus {
+    
+}
+
+.container {
+    background-image: url(img/WhatsApp\ Image\ 2023-12-09\ at\ 09.38.01.jpeg);
+    background-size: contain;
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* display: flex; */
+}
+
+
+h2 {
+    background-color: rgb(184, 216, 244);
+    display: inline-block;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: brown;
+    border: solid white 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
